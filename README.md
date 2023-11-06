@@ -5,7 +5,7 @@
 -->
 
 ## About Me  👨‍🎓
-I am Susanto Mahato a final year undergraduate from Acharya Institute of Technology, Bengaluru. My main interest lies in Web Development, Computer vision and Machine Learning. I am always curious to learn something new and want a platform to grow and excel  🚀
+I am Susanto Mahato a Frontend Engineer at Dukaan, Bengaluru. My main interest lies in Web Development, Computer vision and Machine Learning. I am always curious to learn something new and want a platform to grow and excel  🚀
 
 - 🔭 I’m currently working on Web Development
 - 🧑‍🤝‍🧑 I’m looking to collaborate on any Web development or AI project
